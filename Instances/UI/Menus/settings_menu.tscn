@@ -144,3 +144,39 @@ uppercase = true
 stream = ExtResource("12_g8p0s")
 autoplay = true
 bus = &"Music"
+
+[node name="Label3" type="Label" parent="."]
+z_index = -1
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -470.0
+offset_top = -269.0
+offset_right = -166.0
+offset_bottom = -255.0
+grow_horizontal = 0
+grow_vertical = 0
+theme_override_fonts/font = ExtResource("11_hsiay")
+text = "SMWR Created by JoeMama"
+vertical_alignment = 1
+uppercase = true
+
+[node name="Label4" type="Label" parent="."]
+z_index = -1
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -178.0
+offset_top = -269.0
+offset_right = 126.0
+offset_bottom = -255.0
+grow_horizontal = 0
+grow_vertical = 0
+theme_override_fonts/font = ExtResource("11_hsiay")
+text = "Mod created by Boswer"
+vertical_alignment = 1
+uppercase = true

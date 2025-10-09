@@ -1,6 +1,2 @@
-Download: https://github.com/JHDev2006/Super-Mario-World-Remastered-Public/releases
+This fork of Super Mario World Remastered doesn't really fix any major bugs the game has since I don't really have that much coding knowledge, however this fork does add new features including: adding option to swim faster when holding the run button, adding the option to disable auto scrolling, and adding the ability to climb faster. Feel free to fork this version and build upon it as you wish.
 
-
-This project has been abandoned, mainly because of the code quality being poor, and a simple lack of interest. You are more than welcome to fork the repository and release new content / fixes as you wish.
-
-Thank you all for your support and feedback on this project, I have now moved onto bigger and better projects!

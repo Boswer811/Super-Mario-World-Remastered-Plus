@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://oeiqvupa2v30"]
 
-[ext_resource type="Script" path="res://Scripts/UI/settings_section.gd" id="1_1a2tb"]
+[ext_resource type="Script" uid="uid://cslnfaq5altid" path="res://Scripts/UI/settings_section.gd" id="1_1a2tb"]
 [ext_resource type="PackedScene" uid="uid://den5kogms88pd" path="res://Instances/UI/selectable_option_node.tscn" id="2_xgdys"]
 
 [node name="GameplaySettings" type="ScrollContainer" node_paths=PackedStringArray("option_nodes")]
@@ -101,3 +101,10 @@ node_title = "Auto Reserve Item Drop"
 selectable_values = [false, true]
 value_colours = Array[Color]([Color(1, 0.194376, 0.144153, 1), Color(0.345098, 0.972549, 0.345098, 1)])
 settings_value = "auto_item_drop"
+
+[node name="DisableAutoScroll" parent="VBoxContainer" instance=ExtResource("2_xgdys")]
+layout_mode = 2
+node_title = "Disable auto scroll"
+selectable_values = [false, true]
+value_colours = Array[Color]([Color(1, 0.194376, 0.144153, 1), Color(0.345098, 0.972549, 0.345098, 1)])
+settings_value = "disable_auto_scroll"
