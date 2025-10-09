@@ -27,3 +27,5 @@ This is a fork of Super Mario World Remastered that adds some extra stuff to the
 3. Download the .zip for your OS
 4. Extract and run
 5. Enjoy!
+
+### You are more than welcome to fork the repository and release new content / fixes as you wish.
